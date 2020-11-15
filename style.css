@@ -1,0 +1,60 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: #E2E2E2;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 35px;
+    padding: 24px 0px;
+    text-align: center;
+}
+
+h2{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    text-indent: 50px;
+}
+
+#img01{
+    display: block;
+    float: left;
+    width: 50px;
+    padding: 10px 55px;
+    
+}
+#P1{
+    color: white;
+    font-family:'Montserrat', sans-serif;
+    text-indent:25px;
+    overflow: auto;
+    
+}
+
+h3{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    text-indent: 50px;
+}
+
+#container{
+    background-color: #161616;
+    color: white;
+    font-family:'Montserrat', sans-serif;
+    padding: 10px 55px;
+    text-indent: 55px;
+
+}
+
+a{
+    color: white;
+    text-decoration: underline none;
+}
+
+#desenvolvedor{
+    color: white;
+    font-family:'Montserrat', sans-serif;
+    padding: 35px;
+    text-align: center;
+    font-size: 15px;
+}
